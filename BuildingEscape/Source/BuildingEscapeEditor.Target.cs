@@ -8,6 +8,7 @@ public class BuildingEscapeEditorTarget : TargetRules
 	public BuildingEscapeEditorTarget(TargetInfo Target)
 	{
 		Type = TargetType.Editor;
+
 	}
 
 	//
